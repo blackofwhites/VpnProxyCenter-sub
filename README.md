@@ -178,4 +178,3 @@ https://raw.githubusercontent.com/blackofwhites/VpnProxyCenter-sub/main/VpnProxy
 
 ---
 
-**ساخته شده با ❤️ توسط Hermes Agent**
