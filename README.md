@@ -166,7 +166,6 @@ https://raw.githubusercontent.com/blackofwhites/VpnProxyCenter-sub/main/VpnProxy
 ## 🔗 لینک‌های مفید
 
 - 📢 کانال: [@VpnProxyCenter](https://t.me/VpnProxyCenter)
-- 🤖 ربات: [@ProxyVpnCenter_bot](https://t.me/ProxyVpnCenter_bot)
 
 ---
 
